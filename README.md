@@ -1,4 +1,5 @@
-# 🤖 Nayan Bot
+# 🤖 Rahi Bot![IMG_20250809_103146](https://github.com/user-attachments/assets/11075ab8-4f73-46f8-87d5-67b907d3df85)
+
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
